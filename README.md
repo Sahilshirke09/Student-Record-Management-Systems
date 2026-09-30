@@ -26,3 +26,5 @@ To meet the project requirements, I have integrated the following concepts:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+
+## 5. Sample Output/Input
