@@ -23,6 +23,10 @@ To meet the project requirements, I have integrated the following concepts:
 - **File I/O:** Used the `json` module to read from and write to a local storage file.
 
 ## 4. How to Run the Application
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+1. Run the python code in Python Application or on command Prompt to use it.
+
+## 5. Output/ Screenshots
+<img width="812" height="532" alt="python project output" src="https://github.com/user-attachments/assets/60b254e8-c164-4843-9750-43b46d9aa73d" />
+
+
+
