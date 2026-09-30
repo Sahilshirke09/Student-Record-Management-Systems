@@ -1,0 +1,25 @@
+# Student Record Management Application
+
+## Project Description
+This is a Python console application designed to manage student records. It allows users to store data persistently in a local file so that information is saved even after the program is closed. This project demonstrates basic concepts of Python programming and database-like logic.
+
+## Features
+- **Add Records:** Create new student profiles with unique IDs.
+- **View Records:** Display all stored records in a formatted table.
+- **Search Records:** Find a specific student by their ID.
+- **Update Records:** Modify details of existing students.
+- **Delete Records:** Remove records from the system.
+- **Data Persistence:** Uses JSON file storage.
+
+## Technologies Used
+- **Language:** Python 3.x
+- **Concepts:** Functions, List Manipulation, Dictionary Data Structures, Exception Handling, File I/O (JSON).
+
+## How to Run
+1. Ensure you have Python installed.
+2. Download `record_manager.py`.
+3. Open your terminal or command prompt.
+4. Run the command: `python record_manager.py`
+
+## Sample Input/Output
+**Adding a record:**
